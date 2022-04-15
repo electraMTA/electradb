@@ -1,0 +1,9 @@
+<meta>
+    <script src="connection.lua" type="server" cache="false"/>
+    <script src="utils.lua" type="server" cache="false"/>
+    <script src="insertion.lua" type="server" cache="false"/>
+    <script src="fetch.lua" type="server" cache="false"/>
+    <script src="query_interpretation.lua" type="server" cache="false"/>
+
+    <export function="handleQuery" type="server"/>
+</meta>

@@ -1,0 +1,44 @@
+[
+	{
+		"dbdesc":"A wild database",
+		"dbcontent":{
+			"accounts":{
+				"74660":[
+					"5",
+					"Furkan",
+					"deneme",
+					"abc"
+				],
+				"baseStructure":[
+					[
+						"id",
+						"int",
+						1
+					],
+					[
+						"username",
+						"str",
+						""
+					],
+					[
+						"password",
+						"str",
+						""
+					],
+					[
+						"email",
+						"str",
+						""
+					]
+				],
+				"17411":[
+					"3",
+					"Esen",
+					"dunya",
+					"abc"
+				]
+			}
+		},
+		"dbname":"electraproject"
+	}
+]
